@@ -1,2 +1,2 @@
-# artindev.github.io
+# artindev.github.io/simplecv
 Simple Template With HTML , Css (Not Responsive) 
